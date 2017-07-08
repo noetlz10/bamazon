@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/noetlz10/bamazon/issues"
   },
-  "homepage": "https://github.com/noetlz10/bamazon#readme"
+  "homepage": "https://github.com/noetlz10/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "bamazon"
+  ]
 }
